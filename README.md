@@ -1,5 +1,5 @@
-# CodSoft Data Science Internship Tasks - Ayaan Danish
-These are the data science tasks that I have completed as part of the Data Science Internship offered by CodSoft
+# Data Science Supervised Learning Tasks - Ayaan Danish
+These are some common data science tasks that I have completed for practice
 
 ## Task Details
 ### 1. Titanic Survivors Prediction
